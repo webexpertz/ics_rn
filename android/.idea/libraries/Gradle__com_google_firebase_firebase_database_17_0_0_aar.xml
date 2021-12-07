@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba295841f2d1e97e2baa126c4649fe43/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66ee001c0fd683774f629967e60a6448/jetified-firebase-database-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66ee001c0fd683774f629967e60a6448/jetified-firebase-database-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66ee001c0fd683774f629967e60a6448/jetified-firebase-database-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ff2ecc13a76e93682741da43aa8142d/jetified-firebase-database-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c02232e9dc5b71fc09720d5c66ca0df9/jetified-firebase-database-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c02232e9dc5b71fc09720d5c66ca0df9/jetified-firebase-database-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c02232e9dc5b71fc09720d5c66ca0df9/jetified-firebase-database-17.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d3cc65cafbaa73f5039962def5e85cf/jetified-firebase-database-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d3cc65cafbaa73f5039962def5e85cf/jetified-firebase-database-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d3cc65cafbaa73f5039962def5e85cf/jetified-firebase-database-17.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database/17.0.0/36fb0affecc9fd20596a19216868acf29fbdacce/firebase-database-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

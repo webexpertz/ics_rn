@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/763e4927cf87716071f5919255210dae/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32517fd93e02323129b66923cbfe4570/jetified-firebase-storage-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32517fd93e02323129b66923cbfe4570/jetified-firebase-storage-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32517fd93e02323129b66923cbfe4570/jetified-firebase-storage-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51cf20f9e072de13187fe554400079f1/jetified-firebase-storage-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/833ecd346e8fd72a38b882918ac06459/jetified-firebase-storage-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/833ecd346e8fd72a38b882918ac06459/jetified-firebase-storage-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/833ecd346e8fd72a38b882918ac06459/jetified-firebase-storage-17.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d05bf48049282d01bc4a4c106b3256be/jetified-firebase-storage-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d05bf48049282d01bc4a4c106b3256be/jetified-firebase-storage-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d05bf48049282d01bc4a4c106b3256be/jetified-firebase-storage-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/17.0.0/f29ca90eb392eb2f10ed0a0a4e7c88fb4456d977/firebase-storage-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

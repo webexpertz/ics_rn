@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ICS.iml" filepath="$PROJECT_DIR$/ICS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ICS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ICS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-824785909/ICS.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-824785909/ICS.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1553168593/ICS.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1553168593/ICS.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-470544863/ICS.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/-470544863/ICS.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/275425068/ICS.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/275425068/ICS.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/310910175/ICS.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/310910175/ICS.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1948377180/ICS.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-1948377180/ICS.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1900096368/ICS.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1900096368/ICS.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-953113451/ICS.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-953113451/ICS.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/488622829/ICS.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/488622829/ICS.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-941116296/ICS.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-941116296/ICS.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-298273661/ICS.react-native-touch-id.iml" filepath="$PROJECT_DIR$/.idea/modules/-298273661/ICS.react-native-touch-id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-971202518/ICS.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-971202518/ICS.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

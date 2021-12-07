@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-phenotype:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/45af4fec5287bdbedd94eb3de3cafeb3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4447da9959bfa4920b05e6236ac87ec7/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4447da9959bfa4920b05e6236ac87ec7/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4447da9959bfa4920b05e6236ac87ec7/jetified-play-services-phenotype-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc4700447b88727718744d1b43d538c3/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2020b8c28160b3cf01fc5b99898a2992/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2020b8c28160b3cf01fc5b99898a2992/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2020b8c28160b3cf01fc5b99898a2992/jetified-play-services-phenotype-16.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93971cb46ef40d2adcbe209220563884/jetified-play-services-phenotype-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93971cb46ef40d2adcbe209220563884/jetified-play-services-phenotype-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93971cb46ef40d2adcbe209220563884/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

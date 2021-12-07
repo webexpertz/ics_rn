@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-firestore:19.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d345dc41b9c721ba508bf3fb964d2f4f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a29b971fda4cd8d6396900657b49cdd7/jetified-firebase-firestore-19.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a29b971fda4cd8d6396900657b49cdd7/jetified-firebase-firestore-19.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a29b971fda4cd8d6396900657b49cdd7/jetified-firebase-firestore-19.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5138ee1d538ea0dc199f994f58861312/jetified-firebase-firestore-19.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d7cba17fa5e7a183f0adb6aee91c2b5/jetified-firebase-firestore-19.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d7cba17fa5e7a183f0adb6aee91c2b5/jetified-firebase-firestore-19.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d7cba17fa5e7a183f0adb6aee91c2b5/jetified-firebase-firestore-19.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ade3ed453fedf12c39b6e70878605520/jetified-firebase-firestore-19.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ade3ed453fedf12c39b6e70878605520/jetified-firebase-firestore-19.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ade3ed453fedf12c39b6e70878605520/jetified-firebase-firestore-19.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/19.0.2/1531281358770081af9b7cf0401a02d9b456f958/firebase-firestore-19.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

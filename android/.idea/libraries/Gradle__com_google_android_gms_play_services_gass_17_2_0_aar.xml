@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-gass:17.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/27314f826f497dd37116dd39b1ce1a36/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca0a1e153641df7f62203598cf4f4549/jetified-play-services-gass-17.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca0a1e153641df7f62203598cf4f4549/jetified-play-services-gass-17.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca0a1e153641df7f62203598cf4f4549/jetified-play-services-gass-17.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d5155d68aa636eca1eb672c6c3f64ea/jetified-play-services-gass-17.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37373cdaca5326bc67c63a90c61a49e5/jetified-play-services-gass-17.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37373cdaca5326bc67c63a90c61a49e5/jetified-play-services-gass-17.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37373cdaca5326bc67c63a90c61a49e5/jetified-play-services-gass-17.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40b8807622e884941d1391208138ad16/jetified-play-services-gass-17.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40b8807622e884941d1391208138ad16/jetified-play-services-gass-17.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40b8807622e884941d1391208138ad16/jetified-play-services-gass-17.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-gass/17.2.0/b884044d2f8732260837f470f4ed231a876cb2e3/play-services-gass-17.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

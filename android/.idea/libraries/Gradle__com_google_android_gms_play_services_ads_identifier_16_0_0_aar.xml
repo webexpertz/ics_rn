@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca552f58523e98ce1290dbc0de26744d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3dc2d2f87d976cfed4d414367537cc02/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3dc2d2f87d976cfed4d414367537cc02/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3dc2d2f87d976cfed4d414367537cc02/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65fd340f54862975848c97018af98179/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f60768456e9151d5ca182e011f00f4a/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f60768456e9151d5ca182e011f00f4a/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f60768456e9151d5ca182e011f00f4a/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1844f8dcabf625cc0954da8c8178317c/jetified-play-services-ads-identifier-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1844f8dcabf625cc0954da8c8178317c/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1844f8dcabf625cc0954da8c8178317c/jetified-play-services-ads-identifier-16.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-measurement-connector:17.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4b9ecd9e4fed6161f5e936ccd51f9d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9a19451b16b4b16f9bd86451b60e04d/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9a19451b16b4b16f9bd86451b60e04d/jetified-firebase-measurement-connector-17.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9a19451b16b4b16f9bd86451b60e04d/jetified-firebase-measurement-connector-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2d42e7bfe09ebdb3769fbd31843efbf/jetified-firebase-measurement-connector-17.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46756ed9c04d5fe9495641c4efc719c4/jetified-firebase-measurement-connector-17.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46756ed9c04d5fe9495641c4efc719c4/jetified-firebase-measurement-connector-17.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46756ed9c04d5fe9495641c4efc719c4/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d39ebbfdc36876210b2a0992b990b71d/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d39ebbfdc36876210b2a0992b990b71d/jetified-firebase-measurement-connector-17.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d39ebbfdc36876210b2a0992b990b71d/jetified-firebase-measurement-connector-17.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

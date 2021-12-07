@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk:16.5.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5df9bd2362051eb984b062b1455b4a85/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5a9838c73d78a7a7f26bb1bb8e01387a/jetified-play-services-measurement-sdk-16.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5a9838c73d78a7a7f26bb1bb8e01387a/jetified-play-services-measurement-sdk-16.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5a9838c73d78a7a7f26bb1bb8e01387a/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/adc373c88490729e3d6dd8ca4393a163/jetified-play-services-measurement-sdk-16.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e372eb27787bddc7f2029239b434cd5/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e372eb27787bddc7f2029239b434cd5/jetified-play-services-measurement-sdk-16.5.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2e372eb27787bddc7f2029239b434cd5/jetified-play-services-measurement-sdk-16.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3d81fe3779d1d4b7be7446cb8945bca/jetified-play-services-measurement-sdk-16.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3d81fe3779d1d4b7be7446cb8945bca/jetified-play-services-measurement-sdk-16.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d3d81fe3779d1d4b7be7446cb8945bca/jetified-play-services-measurement-sdk-16.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk/16.5.0/9c03e98567b9437a88b7677031de4c7920b9ffba/play-services-measurement-sdk-16.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth-interop:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73ea3616d779bdf984ed7de691692d51/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6dcaf7c467555f3ce2b43e678f633fb4/jetified-firebase-auth-interop-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6dcaf7c467555f3ce2b43e678f633fb4/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6dcaf7c467555f3ce2b43e678f633fb4/jetified-firebase-auth-interop-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e39bc016fab4525e3f9ce0f9d443ba00/jetified-firebase-auth-interop-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc35169ede74b9465fae5fc9312d4e81/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc35169ede74b9465fae5fc9312d4e81/jetified-firebase-auth-interop-17.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc35169ede74b9465fae5fc9312d4e81/jetified-firebase-auth-interop-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6183f245a61a7f96bfae1baa05e3bc38/jetified-firebase-auth-interop-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6183f245a61a7f96bfae1baa05e3bc38/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6183f245a61a7f96bfae1baa05e3bc38/jetified-firebase-auth-interop-17.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-auth-interop/17.0.0/21a3c7a46fc5439551c73a2ad87c5defe212f3c3/firebase-auth-interop-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

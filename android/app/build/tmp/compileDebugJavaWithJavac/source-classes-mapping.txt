@@ -1,0 +1,11 @@
+com/ics/BuildConfig.java
+ com.ics.BuildConfig
+com/ics/MainApplication.java
+ com.ics.MainApplication
+ com.ics.MainApplication$1
+com/ics/MainActivity.java
+ com.ics.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/ics/SplashActivity.java
+ com.ics.SplashActivity
